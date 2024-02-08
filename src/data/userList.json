@@ -1,0 +1,126 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "李银河",
+      "realname": "李银河",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": "客服部",
+      "role": "客服",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    },
+    {
+      "id": 2,
+      "name": "李星河",
+      "realname": "小星河",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": "财务部",
+      "role": "运维",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    },
+    {
+      "id": 3,
+      "name": "阿云",
+      "realname": "芸芸",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": 1499,
+      "role": 6940,
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    },
+    {
+      "id": 3,
+      "name": "小赖叽",
+      "realname": "无敌赖叽",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": "技术部",
+      "role": "技术",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    },
+    {
+      "id": 4,
+      "name": "则雨果",
+      "realname": "雨果",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": "技术部",
+      "role": "技术",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    },
+    {
+      "id": 5,
+      "name": "唐浩麟",
+      "realname": "唐浩麟",
+      "cellphone": 18888877778,
+      "enable": 0,
+      "department": "技术部",
+      "role": "人事",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-10-17T07:42:27.000Z"
+    },
+    {
+      "id": 6,
+      "name": "红果果",
+      "realname": "鸿兴尔尔",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": "运营部",
+      "role": "技术",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    },
+    {
+      "id": 7,
+      "name": "CodeSyw",
+      "realname": "书琴",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": "总裁办",
+      "role": "超级管理员",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    },
+    {
+      "id": 8,
+      "name": "十号",
+      "realname": "十天帝",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": "财务部",
+      "role": "超级管理员",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    },
+    {
+      "id": 9,
+      "name": "贾舜天",
+      "realname": "贾舜天",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": "财务部",
+      "role": "安保",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    },
+    {
+      "id": 10,
+      "name": "绿果果",
+      "realname": "绿果果",
+      "cellphone": 18888877778,
+      "enable": 1,
+      "department": "技术部",
+      "role": "技术",
+      "createAt": "2022-10-17T07:42:27.000Z",
+      "updateAt": "2022-18-17T08:35:27.000Z"
+    }
+  ],
+  "totalCount": 10
+}

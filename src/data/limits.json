@@ -1,0 +1,280 @@
+[
+  {
+    "children": [
+      {
+        "children": null,
+        "id": 39,
+        "url": "/main/analysis/overview",
+        "name": "核心技术",
+        "parentId": 38,
+        "sort": 106,
+        "type": 2
+      },
+      {
+        "children": null,
+        "id": 40,
+        "url": "/main/analysis/dashboard",
+        "name": "商品统计",
+        "parentId": 38,
+        "sort": 106,
+        "type": 2
+      }
+    ],
+    "icon": "el-icon-monitor",
+    "id": 38,
+    "name": "系统总览",
+    "sort": 1,
+    "type": 1,
+    "url": "/main/analysis"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "id": 1,
+            "name": "创建用户",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 2,
+            "permission": "system:user:create"
+          },
+          {
+            "id": 2,
+            "name": "删除用户",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 2,
+            "permission": "system:user:delete"
+          },
+          {
+            "id": 3,
+            "name": "更新用户",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 2,
+            "permission": "system:user:update"
+          },
+          {
+            "id": 4,
+            "name": "查询用户",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 2,
+            "permission": "system:user:query"
+          }
+        ],
+        "id": 2,
+        "url": "/main/system/user",
+        "name": "用户管理",
+        "parentId": 1,
+        "sort": 106,
+        "type": 2
+      },
+      {
+        "children": [
+          {
+            "id": 5,
+            "name": "创建部门",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 3,
+            "permission": "system:department:create"
+          },
+          {
+            "id": 6,
+            "name": "删除部门",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 3,
+            "permission": "system:department:delete"
+          },
+          {
+            "id": 7,
+            "name": "更新部门",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 3,
+            "permission": "system:department:update"
+          },
+          {
+            "id": 8,
+            "name": "查询部门",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 3,
+            "permission": "system:department:query"
+          }
+        ],
+        "id": 3,
+        "url": "/main/system/department",
+        "name": "部门管理",
+        "parentId": 1,
+        "sort": 106,
+        "type": 2
+      },
+      {
+        "children": [
+          {
+            "id": 9,
+            "name": "创建菜单",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 4,
+            "permission": "system:menu:create"
+          },
+          {
+            "id": 10,
+            "name": "删除菜单",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 4,
+            "permission": "system:menu:delete"
+          },
+          {
+            "id": 11,
+            "name": "更新菜单",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 4,
+            "permission": "system:menu:update"
+          },
+          {
+            "id": 12,
+            "name": "查询菜单",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 4,
+            "permission": "system:menu:query"
+          }
+        ],
+        "id": 4,
+        "url": "/main/system/menu",
+        "name": "菜单管理",
+        "parentId": 1,
+        "sort": 106,
+        "type": 2
+      },
+      {
+        "children": [
+          {
+            "id": 13,
+            "name": "创建角色",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 25,
+            "permission": "system:role:create"
+          },
+          {
+            "id": 14,
+            "name": "删除角色",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 25,
+            "permission": "system:role:delete"
+          },
+          {
+            "id": 15,
+            "name": "更新角色",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 25,
+            "permission": "system:role:update"
+          },
+          {
+            "id": 16,
+            "name": "查询角色",
+            "url": null,
+            "sort": null,
+            "type": 3,
+            "parentId": 25,
+            "permission": "system:role:query"
+          }
+        ],
+        "id": 25,
+        "url": "/main/system/role",
+        "name": "角色管理",
+        "parentId": 1,
+        "sort": 106,
+        "type": 2
+      }
+    ],
+    "icon": "el-icon-setting",
+    "id": 1,
+    "name": "系统管理",
+    "sort": 2,
+    "type": 1,
+    "url": "/main/system"
+  },
+  {
+    "children": [
+      {
+        "children": null,
+        "id": 15,
+        "url": "/main/product/category",
+        "name": "商品类别",
+        "parentId": 9,
+        "sort": 106,
+        "type": 2
+      },
+      {
+        "children": null,
+        "id": 16,
+        "url": "/main/product/goods",
+        "name": "商品信息",
+        "parentId": 9,
+        "sort": 106,
+        "type": 2
+      }
+    ],
+    "icon": "el-icon-setting",
+    "id": 9,
+    "name": "商品中心",
+    "sort": 2,
+    "type": 1,
+    "url": "/main/product"
+  },
+  {
+    "children": [
+      {
+        "children": null,
+        "id": 42,
+        "url": "/main/story/chat",
+        "name": "你的故事",
+        "parentId": 41,
+        "sort": 106,
+        "type": 2
+      },
+      {
+        "children": null,
+        "id": 43,
+        "url": "/main/story/list",
+        "name": "故事列表",
+        "parentId": 41,
+        "sort": 106,
+        "type": 2
+      }
+    ],
+    "icon": "el-icon-setting",
+    "id": 41,
+    "name": "随便聊聊",
+    "sort": 2,
+    "type": 1,
+    "url": "/main/story"
+  }
+]
